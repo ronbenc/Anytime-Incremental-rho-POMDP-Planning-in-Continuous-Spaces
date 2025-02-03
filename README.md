@@ -1,2 +1,2 @@
-# Anytime-incremental-POMDP-planning-in-continuous-spaces
-An accompanying repository for the "Anytime  incremental ρPOMDP planning in continuous spaces" paper
+# Anytime Incremental ρPOMDP Planning in Continuous Spaces
+An accompanying repository for the "Anytime Incremental ρPOMDP Planning in Continuous Spaces" paper.
